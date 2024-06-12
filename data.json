@@ -1,0 +1,810 @@
+[
+    {
+        "p_id": 100,
+        "p_name": "Multi-Cooker with Attachments",
+        "p_cost": 899,
+        "p_cat": "Electric Kettle",
+        "p_desc": "The VKM12 is multi-cooker with a capacity of 1.2 Litre with 3 additional attachments - PP Bowl, PP Egg Tray, SS Stand.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/electric-kettle/c/4/3/-original-imagx3ffdfcef6hq.jpeg?q=70"
+    },
+    {
+        "p_id": 101,
+        "p_name": "Electric Kettle",
+        "p_cost": 1199,
+        "p_cat": "Electric Kettle",
+        "p_desc": "Prepare hot water, instant tea etc, in a matter of minutes with Prestige Electric Kettle. With smart features like automatic cut-off, single touch lid locking, beautifully designed ergonomic handle - this glamorously designed electric kettle is a must have accessory for your home.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/electric-kettle/t/q/b/pkcb-1-7-blue-pkcb-1-7-blue-prestige-original-imagm7t7tkaxrhxq.jpeg?q=70"
+    },
+    {
+        "p_id": 102,
+        "p_name": "Stainless Steel Kettle",
+        "p_cost": 999,
+        "p_cat": "Electric Kettle",
+        "p_desc": "Now, switch to a smart and easy way of boiling water with the all-new KENT Vogue Stainless Steel Kettle. Made of 304 stainless steel, the high capacity electric kettle provides protection from overprotection and boil drying.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/kingqkw0-0/electric-kettle/g/s/j/egg-boiler-w-with-vogue-ss-electric-kettle-1-2-l-black-16056-original-imafye5ctwabpjyk.jpeg?q=70"
+    },
+    {
+        "p_id": 103,
+        "p_name": "Portable Electric Kettle",
+        "p_cost": 1299,
+        "p_cat": "Electric Kettle",
+        "p_desc": "This KENT Electric Electric Kettle is an innovative product that can be carried anywhere you go. The food-grade silicone material of this kettle makes it safe for use, even for kids. In addition, the silicone material offers hassle-free cleaning, making it convenient for your use. The compact design of this kettle makes it travel-friendly, allowing you to easily carry it in your bags. You can get piping hot beverages in about 5 minutes, helping you to enjoy hot drinks when you feel like it. This lightweight kettle makes travelling easy and convenient, as you can make meals for your kids anytime they want.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/k5vcya80pkrrdj/electric-kettle-refurbished/g/g/w/u-16052-1-8-kent-original-imafmuj5n58zzpbm.jpeg?q=70"
+    },
+    {
+        "p_id": 104,
+        "p_name": "3-in-1 Cook Kettle",
+        "p_cost": 899,
+        "p_cat": "Electric Kettle",
+        "p_desc": "The stainless steel inner and removable trays make cleaning up a breeze, giving you more time to relax and enjoy quality moments with your family after a delicious meal.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/electric-kettle/u/q/6/3-in-1-cook-kettle-widemouth-pot-2-temp-settings-busy-moms-boil-original-imagpz8rzavqfy7b.jpeg?q=70"
+    },
+    {
+        "p_id": 105,
+        "p_name": "Super Retina XDR Display Smartphone",
+        "p_cost": 64999,
+        "p_cat": "Smartphone",
+        "p_desc": "Stay productive and improve your performance with the Super Retina XDR display that is comfortable for the eyes. Powered with a 12 MP main camera, enjoy taking pictures with friends and family. With a built-in rechargeable lithium-ion battery and equipped with the MagSafe wireless charging, you can charge your phone quickly up to 50 % in just half an hour by using a 20 W adapter. This phone is loaded with a horde of exciting features such as Siri, face ID, barometer, ambient light sensors etc., and is also resistant to dust and water as it is IP68 rated.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/v/8/-original-imaghx9qudmydgc4.jpeg?q=70"
+    },
+    {
+        "p_id": 106,
+        "p_name": "Apple iPhone 12",
+        "p_cost": 79999,
+        "p_cat": "Smartphone",
+        "p_desc": "Dive into a world of crystal-clear visuals with this iPhone’s Super Retina XDR Display. This beast of a smartphone packs the A14 Bionic chip to make for blazing-fast performance speeds. On top of that, its Dual-camera System, along with Night Mode, helps you click amazing pictures and selfies even when the lighting isn’t as good as you’d want it to be.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/kg8avm80/mobile/j/f/9/apple-iphone-12-dummyapplefsn-original-imafwg8dkyh2zgrh.jpeg?q=70"
+    },
+    {
+        "p_id": 107,
+        "p_name": "Realme P1 5G",
+        "p_cost": 29999,
+        "p_cat": "Smartphone",
+        "p_desc": "Discover the realme P1 5G, which offers strong performance and flawless connectivity thanks to the contemporary MediaTek Dimensity 7050 5G Chipset and Smart 5G features. Immerse yourself in vivid images on the 120Hz AMOLED display, which is supplemented with features like fingerprint recognition within the display and Sunlight Screen technology for readable content outside. With the 7-layer VC Cooling System, you can operate at the highest level without worrying about overheating when things get hot. With unparalleled performance and dependability, the realme P1 5G has a four-year smooth user experience guaranteed by TUV SUD certification, making it your reliable friend for years to come.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/9/a/-original-imafye5ctwabpjyk.jpeg?q=70"
+    },
+    {
+        "p_id": 108,
+        "p_name": "Realme 12x 5G",
+        "p_cost": 34999,
+        "p_cat": "Smartphone",
+        "p_desc": "The Realme 12x 5G is a sleek powerhouse redefining mobile technology. Swift charging meets endurance with 45 W SUPERVOOC Charge and a 5000 mAh battery, ensuring you're always connected. The Dimensity 6100+ 6nm chipset delivers lightning-fast 5G speeds for seamless connectivity wherever you are. Immerse yourself in the 12.07 cm (6.72) 120 Hz FHD+ Display, offering crystal-clear visuals with its ultra-smooth refresh rate. Style meets substance with its ultra-slim 7.69 mm profile and lightweight 188g body. Capture life's moments in stunning detail with the 50 MP AI camera, while the vapour chamber cooling system keeps performance optimal. Elevate your audio experience with dual stereo speakers, delivering Hi-Res Audio certification for immersive sound. The Realme 12x 5G: where innovation meets elegance in the palm of your hand.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/e/h/12x-5g-rmx3998-realme-original-imagzjx75vd6uygj.jpeg?q=70"
+    },
+    {
+        "p_id": 109,
+        "p_name": "Realme C65 5G",
+        "p_cost": 24999,
+        "p_cat": "Smartphone",
+        "p_desc": "With its DAT Smart Antenna, the realme C65 5G, which is equipped with the MediaTek D6300 Chipset, provides blazing-fast performance and effective connectivity. With the 120 Hz display and 4-level Dynamic Refresh Rates that are certified by TUV Rheinland, you may enjoy a vivid viewing experience. Put your eyes first with Rheinland Low Blue Light Eye Protection and 1 nit Low Blue Light Certification. The sturdy construction offers IP54 Dust and Water Resistance for worry-free exploration in a variety of circumstances.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/4/8/i/-original-imahy99nvkpewtzy.jpeg?q=70"
+    },
+    {
+        "p_id": 110,
+        "p_name": "Samsung F34",
+        "p_cost": 49999,
+        "p_cat": "Smartphone",
+        "p_desc": "Sporting a host of exciting features, this Samsung F34 takes you to a whole new level. Enjoy a smooth viewing experience with FHD+ and 120 Hz AMOLED Display. This phone is suitable for low-light conditions and doesn’t harm your eyes. The phone is durable with Gorilla Glass 5 protection. Enjoy taking vivid portraits on the 50 MP No Shake camera. Use the Auto Night Mode and Fun Mode to your advantage and shoot mind-blowing videos with 4K resolution. Powered by a 6000 mAh mammoth battery, your phone can run for up to 2 days. Experience uninterrupted network and connectivity with the 11 5G bands. With Knox Security, 128 GB of storage capacity, a powerful Exynos processor, a Samsung Wallet convenient payment system, and more, this phone simply eases your tasks and improves your productivity.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/r/8/-original-imagtywatxffk3yh.jpeg?q=70"
+    },
+    {
+        "p_id": 111,
+        "p_name": "Samsung Galaxy S23 5G",
+        "p_cost": 74999,
+        "p_cat": "Smartphone",
+        "p_desc": "Give yourself a smartphone that recognises your emotions and responds appropriately. The Samsung Galaxy S23 5G's enhanced AI and Nightography feature produces low-light photos and videos that are vivid and colourful from dusk to dawn and back again. The Snapdragon processor in this phone also offers quick video streaming and gaming. Additionally, adaptive 120 Hz makes scrolling fluid, and Eye Comfort Shield guards against eye fatigue even while looking in low light.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/7/n/-original-imagzm8qzhpuwrak.jpeg?q=70"
+    },
+    {
+        "p_id": 112,
+        "p_name": "Samsung Galaxy S23 FE",
+        "p_cost": 64999,
+        "p_cat": "Smartphone",
+        "p_desc": "Epic moments are now accessible to all. Galaxy S23 FE opens the door for more people to experience the extraordinary. With its long-lasting power and stunning night shots, the phone becomes your gateway to lasting epic memories.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/c/s/-original-imagztn7sycc4h84.jpeg?q=70"
+    },
+    {
+        "p_id": 113,
+        "p_name": "Buds VS102 Neo",
+        "p_cost": 2499,
+        "p_cat": "Headphone",
+        "p_desc": "Get ready to experience the mighty sound of Buds VS102 Neo, the latest offering from Noise. This pocket-sized powerhouse comes with 40 hours of playtime, a quad-mic system that ensures superior call quality, and Instacharge feature that juices up your earbuds in just 10 minutes, providing 120 minutes of playtime. The earbuds also boast an 11mm speaker driver, the Hyper Sync for quick pairing, and an IPX5 water-resistant rating, making it a complete package.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/6/s/j/-original-imahyz8hgbgkyrdd.jpeg?q=70"
+    },
+    {
+        "p_id": 114,
+        "p_name": "Mivi DuoPods K6 TWS",
+        "p_cost": 1999,
+        "p_cat": "Headphone",
+        "p_desc": "Mivi DuoPods K6 TWS has been crafted keeping elegance in mind. The elegant pebble-shaped case reflects a smooth Matt finish. The ear buds are powered by AI ENC. The artificial intelligence enabled HDCalls Technology make your conversations crystal clear. With 50 hours of combined playtime on a single charge, DuoPods K6 offers unparalleled playtime with blazing-fast charging that keeps you on the move every time. With Type C fast charging, the earbuds offer 500 minutes of playtime in just 10 minutes of charging.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/3/c/w/-original-imagqzfykr25c4yy.jpeg?q=70"
+    },
+    {
+        "p_id": 115,
+        "p_name": "boAt Airdopes Supreme TWS Earbuds",
+        "p_cost": 3799,
+        "p_cat": "Headphone",
+        "p_desc": "Transcend audio chaos and enter the spatial realm with boAt Airdopes Supreme TWS Earbuds. Feel the sound envelop you from all directions, powered by 24-bit audio processing. Airdopes Supreme's spectacular surround sound fills the void for truly immersive listening, and you can enjoy it without interruptions as these earbuds boast a massive 50 hours of playtime. In addition, quad mics with advanced noise cancellation tackle pesky background sounds using Artificial Intelligence, AI-ENx, to deliver supremely thumping audio devoid of clutter. Simply pop in your Airdopes to start grooving as these earbuds feature seamless in-ear detection for a smooth audio hustle. Whether you want to juggle calls on multiple devices or tick off watchlists and work tasks, these earbuds have got your back. Connect to two devices and breeze through your schedule with multipoint connectivity. Not just streaming, you can even make a mark in the gaming arena with the 65 ms low latency of BEAST mode that syncs your moves with the sound for a befitting win. Airdopes Supreme is compatible with the boAt Hearables app giving you complete control with touch customization and a multitude of functions. For added playback boost, just charge these earbuds for 10 minutes and enjoy your gaming, listening to your playlist, and watching the latest OTT series for almost 150 minutes. Elevate your listening with the innovative boAt Airdopes Supreme!",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/p/r/z/enco-buds-2-oppo-original-imagh9frfp7gxdb3.jpeg?q=70"
+    },
+    {
+        "p_id": 116,
+        "p_name": "OPPO Enco Buds 2",
+        "p_cost": 4999,
+        "p_cat": "Headphone",
+        "p_desc": "OPPO Enco Buds 2 with 28 hours Battery life & Deep Noise Cancellation Bluetooth Headset (Midnight, True Wireless)",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/3/c/w/-original-imagqzfykr25c4yy.jpeg?q=70"
+    },
+    {
+        "p_id": 117,
+        "p_name": "Acer EK240YE Monitor",
+        "p_cost": 9499,
+        "p_cat": "Monitor",
+        "p_desc": "The Acer EK240YE monitor comes with an array of features to deliver seamless operations and convenience to its users. The Acer VisionCare technologies featured in this monitor help to reduce eye fatigue so you can view the screen for a long time. Its ergonomic stand allows you to adjust the monitor according to your needs. This monitor offers a wide viewing angle allowing you to view the colours in its maximum accuracy from up to 178 degrees. Its quick refresh rate of 100 Hz flicker-free screen offers seamless transitions between colours without causing any strain to your eyes.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/4/h/5/-original-imagxpgpcnpyqmyj.jpeg?q=70"
+    },
+    {
+        "p_id": 118,
+        "p_name": "Acer KA2 Series Monitor",
+        "p_cost": 11999,
+        "p_cat": "Monitor",
+        "p_desc": "The entry-level KA2 series provide a superb user experience and don’t compromise on quality. With a choice of display size and a ZeroFrame design, it is ideal for use in homes and offices. Whether it’s running productivity apps or playing games this monitor has it all.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/c/n/8/-original-imahf4rbgwtzquxh.jpeg?q=70"
+    },
+    {
+        "p_id": 119,
+        "p_name": "Acer CB342CK Quad HD 34",
+        "p_cost": 21999,
+        "p_cat": "Monitor",
+        "p_desc": "The Acer Monitor offers an unparalleled visual experience with its edge-to-edge display, wide viewing angles, vivid HDR, seamless FreeSync technology, rapid response time, and eye safety features. It’s more than just a monitor – it's an essential tool for professionals, gamers, and entertainment enthusiasts who demand the best in visual technology. Step into the future of display excellence with the Acer Monitor.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/c/g/a/cb342ck-quad-hd-34-2023-um-cb2ss-001-acer-original-imagqhedcxeejejd.jpeg?q=70"
+    },
+    {
+        "p_id": 120,
+        "p_name": "Acer SA2 Gaming Monitor",
+        "p_cost": 14999,
+        "p_cat": "Monitor",
+        "p_desc": "In the symphony of monitors, the SA2 from Acer emerges as a virtuoso, playing the notes of style, innovation, and functionality. It's a canvas for your creativity, a window to a world of tear-free frames and breathtaking visuals. Elevate your everyday computing to an art form with the SA2 Monitor. Whether it's the ultra-thin profile that seamlessly blends into your surroundings or the tear-free frames that redefine your gaming experience, the SA2 is a masterpiece in every sense. It's not just about what you see; it's about how you see it. Acer's SA2 Gaming Monitor – where innovation and aesthetics converge to create a visual masterpiece that goes beyond the screen and becomes an integral part of your digital lifestyle. Welcome to the future of displays; welcome to the SA2 experience.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/c/v/p/-original-imagwdpy6avjhsqu.jpeg?q=70"
+    },
+    {
+        "p_id": 121,
+        "p_name": "Acer Monitor",
+        "p_cost": 20999,
+        "p_cat": "Monitor",
+        "p_desc": "The Acer Monitor offers an unparalleled visual experience with its edge-to-edge display, wide viewing angles, vivid HDR, seamless FreeSync technology, rapid response time, and eye safety features. It’s more than just a monitor – it's an essential tool for professionals, gamers, and entertainment enthusiasts who demand the best in visual technology. Step into the future of display excellence with the Acer Monitor.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/c/g/a/cb342ck-quad-hd-34-2023-um-cb2ss-001-acer-original-imagqhedcxeejejd.jpeg?q=70"
+    },
+    {
+        "p_id": 122,
+        "p_name": "Acer SA2 Gaming Monitor",
+        "p_cost": 14999,
+        "p_cat": "Monitor",
+        "p_desc": "In the symphony of monitors, the SA2 from Acer emerges as a virtuoso, playing the notes of style, innovation, and functionality. It's a canvas for your creativity, a window to a world of tear-free frames and breathtaking visuals. Elevate your everyday computing to an art form with the SA2 Monitor. Whether it's the ultra-thin profile that seamlessly blends into your surroundings or the tear-free frames that redefine your gaming experience, the SA2 is a masterpiece in every sense. It's not just about what you see; it's about how you see it. Acer's SA2 Gaming Monitor – where innovation and aesthetics converge to create a visual masterpiece that goes beyond the screen and becomes an integral part of your digital lifestyle. Welcome to the future of displays; welcome to the SA2 experience.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/c/v/p/-original-imagwdpy6avjhsqu.jpeg?q=70"
+    },
+    {
+        "p_id": 123,
+        "p_name": "Motorola HDR10 TV",
+        "p_cost": 24999,
+        "p_cat": "Television",
+        "p_desc": "This Motorola HDR10 TV brings to you 6 display modes, 4 sound modes, and 3D Dolby audio. It provides a crystal-clear display and offers 1.07 billion vibrant colours that elevate your entertainment experience. This bezel-less Google TV has a Mediatek quad-core processor that enables seamless navigation. You can mirror your favourite content on the TV screen from your smartphone with the built-in Chromecast feature.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/j/6/t/-original-imagtkmpgyd3zdp2.jpeg?q=70"
+    },
+    {
+        "p_id": 124,
+        "p_name": "Vu TV",
+        "p_cost": 54999,
+        "p_cat": "Television",
+        "p_desc": "The Vu TV represents the pinnacle of modern television technology. Its combination of high brightness, exceptional sound quality, sophisticated design, smart capabilities, versatile connectivity, powerful processing, and energy efficiency makes it a top-tier choice for anyone seeking a premium TV experience. With Vu TV, you are not just purchasing a television; you are investing in an immersive entertainment hub that will elevate your viewing experience to new heights.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/n/b/f/65ca-vu-original-imaguf4xxzmtfegg.jpeg?q=70"
+    },
+    {
+        "p_id": 125,
+        "p_name": "iFFALCON TV",
+        "p_cost": 31999,
+        "p_cat": "Television",
+        "p_desc": "With the iFFALCON TV, which was meticulously created to enhance your visual experience, you can watch your favourite movie and experience every action with vivid clarity and amazing multimedia quality. A standout viewing experience with eye-catching luminance, great shadow definition, and brilliant colour reproduction is provided by this TV's HDR function. Additionally, this TV's Dynamic Colour Enhancement technology scales up the low coloured pictures to colour-enriched pictures, enhancing your enjoyment of TV. Moreover, the borderless design of this TV provides for a large viewing area and helps you to fully immerse yourself in the programme you are watching.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/i/g/j/-original-imagnvxzdjhrxzde.jpeg?q=70"
+    },
+    {
+        "p_id": 126,
+        "p_name": "Samsung TV",
+        "p_cost": 79999,
+        "p_cat": "Television",
+        "p_desc": "With this Samsung TV, every image on the screen comes to life, giving you a home theatre experience. With the HD visual quality of this TV, you can enjoy vibrant movie scenes. Additionally, HDR increases the screen's brightness and brings out the subtleties of the material. Moreover, the Contrast Enhancer on this TV improves contrast and offers superb image quality with increased depth.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/x/8/a/-original-imagttjpuyzsbzud.jpeg?q=70"
+    },
+    {
+        "p_id": 127,
+        "p_name": "Vu GloLED TV",
+        "p_cost": 89999,
+        "p_cat": "Television",
+        "p_desc": "Enjoy stunning pictures and organise your entertainment with the amazing Vu GloLED TV, which is packed with futuristic capabilities and can hypnotise you with its astounding appearance. You can view content in a rich, colourful setting thanks to this TV's outstanding 94% colour gamut. Additionally, this TV features a dual-core GPU and a superb quad-core processor that work together to flawlessly run programmes. You can experience high audio without the need for an external audio device owing to the Vu GloLED TV's 4 speakers, 1 subwoofer, and a combined 104 watts of sound output. Additionally, the Vu GloLED TV maximises the viewing area while enhancing the beauty of your home with its brilliant, elegant shape and frameless design.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/q/z/k/-original-imagupmkh4cubzex.jpeg?q=70"
+    },
+    {
+        "p_id": 128,
+        "p_name": "Canon R100 Mirrorless Camera",
+        "p_cost": 39990,
+        "p_cat": "Camera",
+        "p_desc": "This Canon R100 Mirrorless Camera features a RF-S 18-45 mm lens, which provides a wide range of focal lengths for capturing everything from landscapes to portraits. With its mirrorless design, this camera offersfast and accurate autofocus, as well as the ability to shoot in low-light conditions. With Creative Assist Mode, Hybrid Auto Mode, and Silent Mode for Quiet Operation, this camera is sure to impress with its performance and image quality.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/i/o/c/eos-r100-24-1-eos-r100-kit-canon-original-imagqeydhsxgacxp.jpeg?q=70"
+    },
+    {
+        "p_id": 129,
+        "p_name": "Canon EOS M50 Mark II",
+        "p_cost": 59990,
+        "p_cat": "Camera",
+        "p_desc": "Flex Your Stories.Lightweight and stylish, the EOS M50 Mark II is fun and easy to use with Wi-Fi connectivity for content creators to stay close to your audience at all times. Keep your social media feeds lit with high-quality visual storytelling in 4K and accurate eye and face detection autofocusing.Whatever content you create, set yourself apart from the crowd and give your audience something special. The EOS M50 Mark II gives you more ways to shoot photos, movies and live streams and connect with your followers.,suitable_for-Beginners,processor-DIGIC 8,sensor_type-APS-C CMOS,continuous_shooting_speed-11 fps (in High Continuous shooting)",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/knyxqq80/dslr-camera/r/y/x/digital-camera-eos-m50-mark-ii-eos-m50-mark-ii-canon-original-imag2gzkexzqhyhu.jpeg?q=70"
+    },
+    {
+        "p_id": 130,
+        "p_name": "Sony α7 II DSLR Camera",
+        "p_cost": 79990,
+        "p_cat": "Camera",
+        "p_desc": "Click breathtaking photos and blur-free videos with this Sony α7 II DSLR camera - it provides you immense freedom to reinvent your photography skills. This high-quality camera features a 5-axis Image Stabilisation, a 35 mm Full-frame 24.3 MP Exmor CMOS Sensor, and a Sony BIONZ X Image Processing Engine to allow you to capture detailed, crisp, and blur-free images and movies.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/l5jxt3k0/dslr-camera/m/n/a/-original-imagg7hsggshhwbz.jpeg?q=70"
+    },
+    {
+        "p_id": 131,
+        "p_name": "HP 15-FB0147AX Gaming Laptop",
+        "p_cost": 56990,
+        "p_cat": "Laptop",
+        "p_desc": "Ryzen 5 laptop: 8GB 512GB",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/c/c/t/15-fb0147ax-gaming-laptop-hp-original-imahfa8gsz6yv6sk.jpeg?q=70"
+    },
+    {
+        "p_id": 132,
+        "p_name": "HP 255 G9 Notebook",
+        "p_cost": 25990,
+        "p_cat": "Laptop",
+        "p_desc": "HP 255 G9 (840T7PA) AMD Athlon Silver-3050 hp-laptops 4 GB / 256 GB SSD / DOS NO WINDOWS AS IT IS DOS MODEL WINDOWS TO BE PURCHASED AND INSTALLED SEPARATELY",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/u/f/8/255-g8-notebook-hp-original-imagq6emcferpkfx.jpeg?q=70"
+    },
+    {
+        "p_id": 133,
+        "p_name": "Zeb-Jukebar 7450 Pro Dolby 5.1 Soundbar",
+        "p_cost": 9999,
+        "p_cat": "Soundbar",
+        "p_desc": "The elegant and dynamic Zeb-Jukebar 7450 Pro Dolby 5.1 soundbar with a 200W power output is here to elevate your audio experience. It comes with a 5 subwoofer, a soundbar with triple drivers, and dual rear satellites with outstanding audio-streaming capabilities. The features that will entice you to get this audio soundbar right now include True 5.1CH surround sound, multi-connectivity, and LED mode displays. When placed on the wall, the soundbar offers a sophisticated appearance with an elegant finish that visually complements the speaker's audio standards.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/speaker/s/g/e/-original-imahy4y8heh2dbbr.jpeg?q=70"
+    },
+    {
+        "p_id": 134,
+        "p_name": "Fastrack Revoltt FS1 Pro Smartwatch",
+        "p_cost": 6499,
+        "p_cat": "Smartwatch",
+        "p_desc": "You can experience the utmost convenience and functionality with the Fastrack Revoltt FS1 Pro Smartwatch. Featuring up to a 4.978 cm (1.96) Super AMOLED arched display, this smartwatch offers a clear and vivid visual experience. This smartwatch delivers an exceptional visual experience by rendering bold colours with a high pixel resolution. Furthermore, with its arched design, this smartwatch provides an optimal viewing experience that is both immersive and visually appealing.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/0/5/0/-original-imagzvhst6fpxg2a.jpeg?q=70"
+    },
+    {
+        "p_id": 135,
+        "p_name": "Philips S1151/03 Shaver For Men",
+        "p_cost": 2499,
+        "p_cat": "Shaver",
+        "p_desc": "PHILIPS S1151/03 Shaver For Men (Blue)",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shaver/y/i/c/-original-imagzv7rrhxypkz9.jpeg?q=70"
+    },
+    {
+        "p_id": 136,
+        "p_name": "Professional Hair Clippers",
+        "p_cost": 1899,
+        "p_cat": "Shaver",
+        "p_desc": "Professional hair clippers, rechargeable haircut trimmer set, hair cutting machine for men/kids/baby/barber grooming cutter kit, waterproof haircut barber trimmer kit with guide combs brush",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shaver/s/y/c/metal-trimmer-professional-vintage-t9-shaver-hair-cutting-original-imagt6cshtsbxy75.jpeg?q=70"
+    },
+    {
+        "p_id": 137,
+        "p_name": "Philips AquaTouch Shaver 1000",
+        "p_cost": 1999,
+        "p_cat": "Shaver",
+        "p_desc": "Philips AquaTouch shaver 1000 gives you an affordable, smooth and refreshing wet or dry shave with self-sharpening ComfortCut blades",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/kdukgi80/shaver/w/y/z/philips-s1223-wet-or-dry-electric-shaver-s1223-comfortcut-blades-original-imafun3d4gd37qux.jpeg?q=70"
+    },
+    {
+        "p_id": 138,
+        "p_name": "Noise Thrive Smartwatch",
+        "p_cost": 3999,
+        "p_cat": "Smartwatch",
+        "p_desc": "Experience the ultimate convenience with the Noise Thrive Smartwatch. Featuring a 1.85'' display, Bluetooth calling, music playback, and voice assistance, this smartwatch is your perfect companion for everyday tasks and activities. Its sleek black strap adds a touch of elegance to your style.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/8/0/2/-original-imagrzjahvy88v6r.jpeg?q=70"
+    },
+    {
+        "p_id": 139,
+        "p_name": "Noise Colorfit Icon 2 Smartwatch",
+        "p_cost": 2999,
+        "p_cat": "Smartwatch",
+        "p_desc": "Stay connected and stylish with the Noise Colorfit Icon 2 Smartwatch. Featuring a 1.8'' display, Bluetooth calling, and AI voice assistant, this smartwatch is designed to complement your active lifestyle. Its deep wine strap adds a touch of sophistication to your everyday look.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/9/z/z/-original-imagxp8tfbntmsgk.jpeg?q=70"
+    },
+    {
+        "p_id": 140,
+        "p_name": "Noise Icon 4 Smartwatch",
+        "p_cost": 4499,
+        "p_cat": "Smartwatch",
+        "p_desc": "Elevate your smartwatch experience with the Noise Icon 4. Featuring a stunning 1.96'' AMOLED display, metallic finish, and Bluetooth calling, this smartwatch combines style and functionality seamlessly. Its space blue strap adds a modern touch to your wrist.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/9/6/s/-original-imahf5ngwjefzhdg.jpeg?q=70"
+    },
+    {
+        "p_id": 141,
+        "p_name": "Lenovo Gaming Laptop",
+        "p_cost": 67999,
+        "p_cat": "Computer",
+        "p_desc": "Experience gaming like never before with the Lenovo Gaming Laptop. Equipped with an AMD Ryzen 5 Quad Core R5-5500H processor, 8 GB RAM, 512 GB SSD storage, and NVIDIA GeForce RTX 2050 graphics card, this laptop delivers exceptional performance and graphics. Its 15.6-inch display provides immersive visuals, while the Windows 11 Home operating system ensures a smooth user experience. Whether you're gaming or working, this laptop is your ultimate companion.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/j/x/k/ideapad-gaming-3-gaming-laptop-lenovo-original-imagr73cb7fdjr9r.jpeg?q=70"
+    },
+    {
+        "p_id": 142,
+        "p_name": "MSI Laptop",
+        "p_cost": 52990,
+        "p_cat": "Computer",
+        "p_desc": "Stay productive and creative with the MSI Laptop. Powered by an AMD Ryzen processor, this laptop offers efficient performance. Its lightweight and stylish design make it easy to carry, while the enlarged touchpad and 180-degree lay-flat hinge enhance usability. With WiFi 6E connectivity, you can share data and stream online seamlessly. Plus, its military-grade durability ensures long-lasting reliability.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/q/8/a/-original-imagvyw9hgt3mdqa.jpeg?q=70"
+    },
+    {
+        "p_id": 143,
+        "p_name": "Apple MacBook Air M1",
+        "p_cost": 94990,
+        "p_cat": "Computer",
+        "p_desc": "Experience the power of the Apple MacBook Air M1. Powered by the Apple M1 chip, this notebook delivers lightning-fast performance and exceptional graphics. Its thin and light design makes it highly portable, while the 16-core Neural Engine enhances machine learning tasks. With up to 18 hours of battery life and a fan-less design, you can enjoy silent operation and extended productivity on a single charge.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/kp5sya80/screen-guard/tempered-glass/o/v/n/apple-macbook-air-m1-13-3-inch-lightwings-original-imag3gh5xftgbpg3.jpeg?q=70"
+    },
+    {
+        "p_id": 144,
+        "p_name": "Men Relaxed Fit Mid Rise Light Blue Jeans",
+        "p_cost": 999,
+        "p_cat": "Men-Jeans",
+        "p_desc": "Stay comfortable and stylish with these Men Relaxed Fit Mid Rise Light Blue Jeans. Made from high-quality denim, these jeans offer a relaxed fit and mid-rise design for all-day comfort. Pair them with your favorite shirt or t-shirt for a casual yet trendy look.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/w/a/c/28-united191-united-denim-original-imahyp8wvshx3hgf.jpeg?q=70"
+    },
+    {
+        "p_id": 145,
+        "p_name": "Men Slim Mid Rise Blue Jeans",
+        "p_cost": 1299,
+        "p_cat": "Men-Jeans",
+        "p_desc": "Upgrade your denim collection with these Men Slim Mid Rise Blue Jeans. Featuring a slim fit and mid-rise design, these jeans offer a stylish and flattering silhouette. Made from high-quality denim, they provide both comfort and durability. Pair them with a casual shirt or t-shirt for a versatile everyday look.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/v/k/z/32-kjo-90427-slm-slmft-lghind-killer-original-imagzzhhxbjqvd4d.jpeg?q=70"
+    },
+    {
+        "p_id": 146,
+        "p_name": "Men Skinny Mid Rise Blue Jeans",
+        "p_cost": 1499,
+        "p_cat": "Men-Jeans",
+        "p_desc": "Step up your style game with these Men Skinny Mid Rise Blue Jeans. Crafted from premium denim, these jeans offer a sleek and modern silhouette. The mid-rise design provides a comfortable fit, while the skinny leg adds a trendy touch. Pair them with a graphic tee or button-down shirt for a versatile look that can take you from day to night.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/l47cu4w0/jean/u/d/e/32-fmjno2383-flying-machine-original-imagf5z8gvzf7ygg.jpeg?q=70"
+    },
+    {
+        "p_id": 147,
+        "p_name": "Men Relaxed Fit Mid Rise Blue Jeans",
+        "p_cost": 1099,
+        "p_cat": "Men-Jeans",
+        "p_desc": "Add a classic staple to your wardrobe with these Men Relaxed Fit Mid Rise Blue Jeans. Made from high-quality denim, these jeans offer a relaxed fit and mid-rise design for all-day comfort. Whether you're running errands or lounging at home, these jeans are sure to become your new favorite go-to.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/9/x/c/34-united192-united-denim-original-imagyvu6wgr2zh5v.jpeg?q=70"
+    },
+    {
+        "p_id": 148,
+        "p_name": "Men Slim Mid Rise Dark Blue Jeans",
+        "p_cost": 1399,
+        "p_cat": "Men-Jeans",
+        "p_desc": "Elevate your denim collection with these Men Slim Mid Rise Dark Blue Jeans. Crafted from premium denim, these jeans feature a slim fit and mid-rise design for a modern and flattering look. The dark blue wash adds a versatile touch that pairs well with any outfit. Whether you're dressing up or keeping it casual, these jeans are a wardrobe essential.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/b/9/n/-original-imagzrvyngdkgjhs.jpeg?q=70"
+    },
+    {
+        "p_id": 149,
+        "p_name": "Women Flared Mid Rise Brown Jeans",
+        "p_cost": 899,
+        "p_cat": "Women-Jeans",
+        "p_desc": "Make a statement with these Women Flared Mid Rise Brown Jeans. Featuring a flattering flared silhouette and mid-rise waist, these jeans are both stylish and comfortable. The rich brown color adds a touch of sophistication to any outfit, while the stretch denim ensures a perfect fit. Pair them with a blouse or sweater for a chic and on-trend look.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/n/0/m/34-wl-dark-brown1-zayla-original-imahfmhygecyavex.jpeg?q=70"
+    },
+    {
+        "p_id": 150,
+        "p_name": "Women Slim Mid Rise Blue Jeans",
+        "p_cost": 999,
+        "p_cat": "Women-Jeans",
+        "p_desc": "Stay stylish and comfortable all day long with these Women Slim Mid Rise Blue Jeans. Crafted from high-quality denim, these jeans feature a slim fit and mid-rise waist for a flattering silhouette. The classic blue wash pairs effortlessly with any top, making them a versatile addition to your wardrobe. Dress them up with heels or keep it casual with sneakers for a chic everyday look.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/b/x/a/26-1-button-highrise-blue-tyffyn-original-imafwyffmw6n8fg9-bb.jpeg?q=70"
+    },
+    {
+        "p_id": 151,
+        "p_name": "Women Skinny Mid Rise Blue Jeans",
+        "p_cost": 711,
+        "p_cat": "Women-Jeans",
+        "p_desc": "Stay on trend with these Women Skinny Mid Rise Blue Jeans. Featuring a flattering skinny fit and mid-rise waist, these jeans are perfect for everyday wear. The classic blue wash adds versatility to your wardrobe, while the stretch denim ensures a comfortable fit. Pair them with a blouse or t-shirt for a chic and effortless look.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/t/2/-original-imaghxnbknq6hgr7.jpeg?q=70"
+    },
+    {
+        "p_id": 152,
+        "p_name": "Women Regular Mid Rise Blue Jeans",
+        "p_cost": 899,
+        "p_cat": "Women-Jeans",
+        "p_desc": "Add a classic staple to your wardrobe with these Women Regular Mid Rise Blue Jeans. Made from high-quality denim, these jeans feature a regular fit and mid-rise waist for all-day comfort. The versatile blue wash makes them easy to pair with any top, while the stretch denim ensures a flattering fit. Dress them up with heels or keep it casual with sneakers for a timeless look.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/e/y/p/30-1000012101155-dark-blue-fame-forever-by-lifestyle-original-imahyurkxxjy3kvf.jpeg?q=70"
+    },
+    {
+        "p_id": 153,
+        "p_name": "Women Flared Mid Rise Black Jeans",
+        "p_cost": 799,
+        "p_cat": "Women-Jeans",
+        "p_desc": "Make a style statement with these Women Flared Mid Rise Black Jeans. Featuring a flattering flared silhouette and mid-rise waist, these jeans are both chic and comfortable. The black wash adds a touch of sophistication to any outfit, while the stretch denim ensures a perfect fit. Pair them with a blouse or sweater for a polished and on-trend look.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/e/x/f/29-291287301-only-original-imagtntgqnhgvvku.jpeg?q=70"
+    },
+    {
+        "p_id": 154,
+        "p_name": "Men Solid Polo Neck Poly Cotton Brown T-Shirt",
+        "p_cost": 599,
+        "p_cat": "Men-Tshirt",
+        "p_desc": "Update your casual wardrobe with this Men Solid Polo Neck Poly Cotton Brown T-Shirt. Made from a blend of polyester and cotton, this t-shirt offers both comfort and style. The solid brown color adds versatility, while the polo neck adds a touch of sophistication. Pair it with jeans or chinos for a relaxed yet polished look.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/n/l/y/l-pt20-d01-mouse-alan-jones-original-imagngn2nakrsuxm.jpeg?q=70"
+    },
+    {
+        "p_id": 155,
+        "p_name": "Men Checkered Polo Neck Cotton Blend Black, Grey T-Shirt",
+        "p_cost": 699,
+        "p_cat": "Men-Tshirt",
+        "p_desc": "Add a touch of style to your wardrobe with this Men Checkered Polo Neck Cotton Blend Black, Grey T-Shirt. Made from a soft cotton blend fabric, this t-shirt offers both comfort and durability. The checkered pattern in black and grey adds a modern twist to a classic polo neck design. Pair it with jeans or shorts for a casual yet stylish look.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/a/o/5/l-ausk0556-ausk-original-imagt4sy7t9zrgat.jpeg?q=70"
+    },
+    {
+        "p_id": 156,
+        "p_name": "Men Printed Round Neck Pure Cotton Brown T-Shirt",
+        "p_cost": 499,
+        "p_cat": "Men-Tshirt",
+        "p_desc": "Add a touch of style to your casual wardrobe with this Men Printed Round Neck Pure Cotton Brown T-Shirt. Made from pure cotton, this t-shirt offers both comfort and breathability. The printed design adds a unique flair, while the round neck and short sleeves provide a classic look. Pair it with jeans or shorts for a relaxed yet stylish outfit.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/m/9/i/s-636934-bewakoof-original-imahfbe9aa8xrfhe.jpeg?q=70"
+    },
+    {
+        "p_id": 157,
+        "p_name": "Men Solid Round Neck Cotton Blend Navy Blue T-Shirt",
+        "p_cost": 399,
+        "p_cat": "Men-Tshirt",
+        "p_desc": "Upgrade your casual wardrobe with this Men Solid Round Neck Cotton Blend Navy Blue T-Shirt. Made from a soft cotton blend fabric, this t-shirt offers both comfort and durability. The solid navy blue color adds versatility, while the round neck and short sleeves provide a classic look. Pair it with jeans or shorts for a laid-back yet stylish ensemble.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/b/u/w/3xl-men-solid-oversize-tshirt-cloflix-original-imagp3gdfuvpefzk.jpeg?q=70"
+    },
+    {
+        "p_id": 158,
+        "p_name": "Men Solid Round Neck Pure Cotton Yellow T-Shirt",
+        "p_cost": 599,
+        "p_cat": "Men-Tshirt",
+        "p_desc": "Brighten up your casual look with this Men Solid Round Neck Pure Cotton Yellow T-Shirt. Crafted from pure cotton, this t-shirt offers a comfortable and breathable fit. The vibrant yellow color adds a pop of color to your outfit, while the round neck and short sleeves provide a classic finish. Pair it with jeans or chinos for a relaxed yet stylish ensemble.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/knxiavk0/t-shirt/3/i/p/xxl-lrkccslft32186-louis-philippe-original-imag2hzkx6r9abzf.jpeg?q=70"
+    },
+    {
+        "p_id": 159,
+        "p_name": "Women Solid Round Neck Pure Cotton Yellow T-Shirt",
+        "p_cost": 349,
+        "p_cat": "Women-Tshirt",
+        "p_desc": "Elevate your casual style with this Women Solid Round Neck Pure Cotton Yellow T-Shirt. Made from pure cotton, this t-shirt offers a comfortable and breathable fit. The solid yellow color adds a vibrant touch to your ensemble, while the round neck and short sleeves provide a classic finish. Pair it with jeans or shorts for a laid-back yet chic look.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/k2xmd8w0/t-shirt/n/s/e/l-9697407-roadster-original-imafhyt3p7ydpggx.jpeg?q=70"
+    },
+    {
+        "p_id": 160,
+        "p_name": "Casual Puff Sleeves Floral Print Women Green Top",
+        "p_cost": 899,
+        "p_cat": "Women-Tshirt",
+        "p_desc": "Refresh your wardrobe with this Casual Puff Sleeves Floral Print Women Green Top. Made from high-quality fabric, this top offers both comfort and style. The floral print adds a touch of femininity, while the puff sleeves and round neck provide a trendy look. Pair it with jeans or shorts for a chic and effortless ensemble.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/kmxsakw0/top/l/i/u/l-ep7010-rare-original-imagfqf6tmeqpffh.jpeg?q=70"
+    },
+    {
+        "p_id": 161,
+        "p_name": "Casual Regular Sleeves Solid Women Brown Top",
+        "p_cost": 599,
+        "p_cat": "Women-Tshirt",
+        "p_desc": "Add a touch of elegance to your wardrobe with this Casual Regular Sleeves Solid Women Brown Top. Made from high-quality fabric, this top offers both comfort and style. The solid brown color adds versatility, while the regular sleeves and round neck provide a classic look. Pair it with jeans or trousers for a chic and effortless ensemble.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/top/u/k/4/m-coller-tops-style-prezone-original-imagjuvvhzxhmf4y.jpeg?q=70"
+    },
+    {
+        "p_id": 162,
+        "p_name": "Women Regular Fit Self Design Spread Collar Casual Shirt",
+        "p_cost": 1299,
+        "p_cat": "Women-Shirt",
+        "p_desc": "Elevate your casual look with this Women Regular Fit Self Design Spread Collar Casual Shirt. Made from high-quality fabric, this shirt offers both comfort and style. The self-design pattern adds a touch of sophistication, while the spread collar and regular fit provide a classic look. Pair it with jeans or trousers for a chic and polished ensemble.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/2/o/y/xxl-ahsfwrgf657467-allen-solly-original-imaghut7rwmd2awq.jpeg?q=70"
+    },
+    {
+        "p_id": 163,
+        "p_name": "Casual Puff Sleeves Solid Women Black Top",
+        "p_cost": 499,
+        "p_cat": "Women-Tshirt",
+        "p_desc": "Upgrade your wardrobe with this Casual Puff Sleeves Solid Women Black Top. Made from high-quality fabric, this top offers both comfort and style. The solid black color adds versatility, while the puff sleeves and round neck provide a trendy look. Pair it with jeans or trousers for a chic and effortless ensemble.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/top/d/6/i/s-4261-sheetal-associates-original-imagjtft5jrzgwph.jpeg?q=70"
+    },
+    {
+        "p_id": 164,
+        "p_name": "All Nighters Analog Watch - For Men NN3165NL01",
+        "p_cost": 1899,
+        "p_cat": "Men-Watch",
+        "p_desc": "Elevate your style with the All Nighters Analog Watch. This watch features a sleek design with a classic analog display, making it perfect for any occasion. The stainless steel case and bracelet ensure durability, while the quartz movement provides accurate timekeeping. Whether you're dressing up for a formal event or keeping it casual, this watch is sure to make a statement.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/l05lx8w0/watch/w/q/f/-original-imagcy873uvnnxz6.jpeg?q=70"
+    },
+    {
+        "p_id": 165,
+        "p_name": "Noise Vision 3 with 1.96\" AMOLED display with Thin Bezel, Metallic Build Smartwatch (Metallic Black Strap, Regular)",
+        "p_cost": 3499,
+        "p_cat": "Smartwatch",
+        "p_desc": "Stay connected and stylish with the Noise Vision 3 Smartwatch. Featuring a 1.96\" AMOLED display with a thin bezel and a metallic build, this smartwatch offers both functionality and aesthetics. It comes with a range of features including Bluetooth calling, heart rate monitoring, and 120+ sports modes. The metallic black strap adds a touch of sophistication, making it perfect for everyday wear.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/d/x/t/-original-imagzw97x6rscy3p.jpeg?q=70"
+    },
+    {
+        "p_id": 166,
+        "p_name": "Fire-Boltt Ultimate 1.39\" Stainless Steel Luxury Bluetooth Calling, 120+ Sports Smartwatch (Black Strap, Free Size)",
+        "p_cost": 4499,
+        "p_cat": "Smartwatch",
+        "p_desc": "Experience ultimate luxury and functionality with the Fire-Boltt Ultimate Smartwatch. Featuring a 1.39\" AMOLED display and a stainless steel construction, this smartwatch offers both style and durability. It comes with Bluetooth calling, heart rate monitoring, and over 120 sports modes, making it perfect for fitness enthusiasts. The black strap adds a sleek touch, while the free size ensures a comfortable fit for all.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/x/w/6/-original-imagxp8sc5jgwxfp.jpeg?q=70"
+    },
+    {
+        "p_id": 167,
+        "p_name": "Mi Smart Band 5",
+        "p_cost": 2499,
+        "p_cat": "Smart-Band",
+        "p_desc": "Keep track of your fitness and health goals with the Mi Smart Band 5. Featuring a 2.79 cm (1.1) AMOLED display, this smart band offers clear visibility even in bright sunlight. It tracks up to 11 professional sports modes, providing precise performance data to help you achieve your fitness goals. The magnetic charger ensures fast and convenient charging, so you can stay connected and motivated throughout the day.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/kpmy8i80/smart-band-tag/z/r/o/no-regular-xmsh10hm-yes-android-ios-mi-yes-original-imag3twy9daq8rmq.jpeg?q=70"
+    },
+    {
+        "p_id": 168,
+        "p_name": "Ykarn Trades l142_ID116Advance Step Counter, Heart Rate Monitor Bluetooth Watch(Pack Of 1) (Black Strap, Size : Free)",
+        "p_cost": 1199,
+        "p_cat": "Smartwatch",
+        "p_desc": "Stay on top of your fitness goals with the Ykarn Trades ID116Advance Smartwatch. This watch features a step counter, heart rate monitor, and Bluetooth connectivity, making it perfect for tracking your daily activities. The black strap adds a sleek touch, while the free size ensures a comfortable fit for all. Whether you're hitting the gym or going for a run, this smartwatch is sure to keep you motivated and on track.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/l251xu80/smartwatch/3/z/s/33-cc-id-116-plus-pro-fitness-band-with-multi-sport-tracker-back-original-imagdjzehhwuncah.jpeg?q=70"
+    },
+    {
+        "p_id": 169,
+        "p_name": "MADRYN 2.O Sneakers For Men (Multicolor)",
+        "p_cost": 1599,
+        "p_cat": "Men-Shoes",
+        "p_desc": "Step up your style game with the MADRYN 2.O Sneakers. Featuring a multicolor design, these sneakers are sure to make a statement wherever you go. The durable construction and comfortable fit make them perfect for everyday wear, while the stylish design adds a touch of flair to any outfit. Whether you're hitting the gym or running errands, these sneakers are sure to keep you looking and feeling great.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/z/x/r/10-2fd21145-10-u-s-polo-assn-off-white-original-imags5qnu3sghf79.jpeg?q=70"
+    },
+    {
+        "p_id": 170,
+        "p_name": "Phantom Sneakers For Men (White)",
+        "p_cost": 1499,
+        "p_cat": "Men-Shoes",
+        "p_desc": "Add a touch of sophistication to your casual look with the Phantom Sneakers. These white sneakers feature a clean and minimalist design that pairs well with any outfit. The lightweight construction and cushioned insole provide all-day comfort, while the durable outsole ensures long-lasting wear. Whether you're out for a leisurely stroll or meeting up with friends, these sneakers are sure to elevate your style.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/i/q/4/6-sprt-102-white-6-atom-white-original-imahyzvzxavratvy.jpeg?q=70"
+    },
+    {
+        "p_id": 171,
+        "p_name": "Supernova Sneakers For Men (Yellow)",
+        "p_cost": 1699,
+        "p_cat": "Men-Shoes",
+        "p_desc": "Make a bold statement with the Supernova Sneakers. Featuring a vibrant yellow color, these sneakers are sure to turn heads wherever you go. The breathable mesh upper and cushioned footbed provide all-day comfort, while the durable rubber outsole offers traction and stability. Whether you're hitting the gym or running errands, these sneakers are sure to keep you looking and feeling great.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/m/i/z/9-rkt-a271-limeyellow-9-atom-yellow-original-imahfptuu9684zme.jpeg?q=70"
+    },
+    {
+        "p_id": 172,
+        "p_name": "Gansta1 Sneakers For Men (Black)",
+        "p_cost": 1299,
+        "p_cat": "Men-Shoes",
+        "p_desc": "Add a touch of edge to your look with the Gansta1 Sneakers. These black sneakers feature a sleek and modern design that pairs well with any outfit. The lightweight construction and cushioned insole provide all-day comfort, while the durable outsole offers traction and stability. Whether you're out for a night on the town or running errands, these sneakers are sure to keep you looking stylish.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/e/f/6/6-rkt-0404-6-atom-multicolor-original-imahy9djxhyqagap.jpeg?q=70"
+    },
+    {
+        "p_id": 173,
+        "p_name": "Cotton Classic Sneakers Casual Shoes for Men | Stylish, Trendy and Casual Sneakers For Men (Beige)",
+        "p_cost": 899,
+        "p_cat": "Men-Shoes",
+        "p_desc": "Stay stylish and comfortable with the Cotton Classic Sneakers. These beige sneakers feature a classic design that pairs well with any casual outfit. The breathable cotton upper and cushioned footbed provide all-day comfort, while the durable rubber outsole offers traction and stability. Whether you're running errands or hanging out with friends, these sneakers are sure to become your go-to choice.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/w/t/u/12-nm-cc-ic-12-neeman-s-beige-original-imahfk9shzp2ffve.jpeg?q=70"
+    },
+    {
+        "p_id": 174,
+        "p_name": "Casual Stylish Trending Training & Gym Shoes For Women (White)",
+        "p_cost": 799,
+        "p_cat": "Women-Shoes",
+        "p_desc": "Stay comfortable and stylish during your workouts with these Casual Stylish Training & Gym Shoes. Designed with a white color, these shoes offer a trendy and versatile look that pairs well with any workout outfit. The cushioned insoles provide support and comfort during training sessions, while the durable outsoles offer traction and stability. Whether you're hitting the gym or going for a run, these shoes are sure to keep up with your active lifestyle.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/v/s/d/7-cnv6101-vendoz-pink-original-imagfrr6cnnzdgwp-bb.jpeg?q=70"
+    },
+    {
+        "p_id": 175,
+        "p_name": "Glam Walking Shoes with Cushioned Insoles and Bouncy EVA outsole Walking Shoes For Women (White)",
+        "p_cost": 899,
+        "p_cat": "Women-Shoes",
+        "p_desc": "Step out in style with these Glam Walking Shoes. Featuring a white color, these shoes offer a clean and classic look that pairs well with any casual outfit. The cushioned insoles provide support and comfort during long walks, while the bouncy EVA outsoles offer traction and stability. Whether you're running errands or meeting up with friends, these shoes are sure to keep you looking and feeling great.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/w/v/p/7-804060-7-avant-white-original-imahyz5uuxr24htg.jpeg?q=70"
+    },
+    {
+        "p_id": 176,
+        "p_name": "Trendy Without Laces Sports Shoes for Women's Running, Walking,Daily Wear Mocassin For Women (Black)",
+        "p_cost": 649,
+        "p_cat": "Women-Shoes",
+        "p_desc": "Add a touch of style to your active lifestyle with these Trendy Without Laces Sports Shoes. Featuring a black color, these shoes offer a sleek and modern look that pairs well with any casual outfit. The slip-on design makes them easy to put on and take off, while the durable outsoles offer traction and stability. Whether you're running errands or going for a walk, these shoes are sure to become your go-to choice.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/h/m/m/6-843-blk-6-fabbmate-black-original-imagtzvetaaqhcyf.jpeg?q=70"
+    },
+    {
+        "p_id": 177,
+        "p_name": "Walking Shoes For Women (Pink)",
+        "p_cost": 799,
+        "p_cat": "Women-Shoes",
+        "p_desc": "Stay comfortable and stylish on your walks with these Walking Shoes. Featuring a pink color, these shoes offer a fun and vibrant look that adds a pop of color to any outfit. The cushioned insoles provide support and comfort during long walks, while the durable outsoles offer traction and stability. Whether you're out for a leisurely stroll or hitting the trails, these shoes are sure to keep up with your active lifestyle.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/h/a/b/-original-imaghqzyhkmyvu4v.jpeg?q=70"
+    },
+    {
+        "p_id": 178,
+        "p_name": "SL 168 Running Shoes For Women (Grey, Orange)",
+        "p_cost": 1199,
+        "p_cat": "Women-Shoes",
+        "p_desc": "Hit the ground running with these SL 168 Running Shoes. Featuring a grey and orange color combination, these shoes offer a sporty and dynamic look that's perfect for your active lifestyle. The cushioned insoles provide support and comfort during your runs, while the durable outsoles offer traction and stability. Whether you're training for a marathon or just going for a jog, these shoes are sure to keep you moving forward.",
+        "p_img": "https://rukminim2.flixcart.com/image/612/612/kiulxu80-0/shoe/a/m/q/sx0168l-3-sparx-greypeach-original-imafyjxnumjhcvgn.jpeg?q=70"
+    },
+    {
+        "p_id": 179,
+        "p_name": "REDMI Note 11 Pro Smartphone",
+        "p_cost": 26999,
+        "p_cat": "Smartphone",
+        "p_desc": "The REDMI Note 11 Pro Smartphone is designed to accomplish various tasks and keep you entertained. With its MIUI 13 feature, you can smoothly navigate through functions and features. It comes with dual stereo speakers for loud and clear audio. Equipped with up to a 108 MP pro-grade camera, it enables precise and detailed photography and videography.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/7/p/-original-imagcvhfpjq25hdr.jpeg?q=70"
+    },
+    {
+        "p_id": 180,
+        "p_name": "Redmi 5A Smartphone",
+        "p_cost": 6999,
+        "p_cat": "Smartphone",
+        "p_desc": "Upgrade to the Redmi 5A smartphone with its fully-laminated HD display. Powered by a Qualcomm Snapdragon 425 processor, it ensures smooth performance. Capture scenic shots and group photos with its 13 MP camera with PDAF. It features a 3000 mAh battery providing up to 8 days of standby time.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/jaij3bk0/mobile/h/a/7/mi-redmi-5a-c3b-original-imafy2gffsvxqbhy.jpeg?q=70"
+    },
+    {
+        "p_id": 181,
+        "p_name": "ASUS VivoBook 14 Laptop",
+        "p_cost": 42999,
+        "p_cat": "Laptop",
+        "p_desc": "The ASUS VivoBook 14 is an entry-level laptop that offers powerful performance and immersive visuals. It features a NanoEdge display and a matte anti-glare coating for an engaging experience. Easy portability ensures effortless productivity whether for work or play.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/a/r/3/-original-imagpxgqpggsx6tm.jpeg?q=70"
+    },
+    {
+        "p_id": 182,
+        "p_name": "Acer Aspire Lite Laptop",
+        "p_cost": 38999,
+        "p_cat": "Laptop",
+        "p_desc": "The Acer Aspire Lite Laptop is powered by an 11th Gen Intel Core i3-1115G4 processor and features 8GB RAM and a 512GB SSD. It boasts a 39.62cm (15.6\") Full HD Display with a metal body design in steel gray, weighing just 1.59 KG. Enjoy a premium computing experience with this thin and light laptop.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/r/k/g/aspire-lite-thin-and-light-laptop-acer-original-imagrwjryg4gbskf.jpeg?q=70"
+    },
+    {
+        "p_id": 183,
+        "p_name": "Lenovo IdeaPad Slim 3 Laptop",
+        "p_cost": 39999,
+        "p_cat": "Laptop",
+        "p_desc": "The Lenovo IdeaPad Slim 3 Laptop features a slim and elegant design, making it easy to carry wherever you go. With up to 19.9 mm thinness, it's lightweight and portable. Whether for work or play, this laptop ensures reliable performance and seamless multitasking.",
+        "p_img": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/0/f/v/-original-imaguyhzwj4tqwqu.jpeg?q=70"
+    },
+    {
+        "p_id": 184,
+        "p_name": "Nike Air Max",
+        "p_cost": 8129,
+        "p_cat": "Shoes",
+        "p_desc": "Lightweight and comfortable running shoes with excellent cushioning.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718124705/NikeAirMax_cnjey9.png"
+      },
+      {
+        "p_id": 185,
+        "p_name": "Adidas Ultraboost",
+        "p_cost": 2189,
+        "p_cat": "Shoes",
+        "p_desc": "High-performance shoes designed for running and everyday wear.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718125924/AdidasUltraboost_vjc9re.png"
+      },
+      {
+        "p_id": 186,
+        "p_name": "Puma Suede Classic",
+        "p_cost": 3279,
+        "p_cat": "Shoes",
+        "p_desc": "Iconic style and durable comfort in a classic design.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718125924/PumaSuedeClassic_occh7q.png"
+      },
+      {
+        "p_id": 187,
+        "p_name": "Veja Esplar",
+        "p_cost": 3149,
+        "p_cat": "Shoes",
+        "p_desc": "Sustainable sneakers made with eco-friendly materials, perfect for everyday wear.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718126862/VejaEsplar_rwxzv0.png"
+      },
+      {
+        "p_id": 188,
+        "p_name": "Asics Gel-Kayano",
+        "p_cost": 1609,
+        "p_cat": "Shoes",
+        "p_desc": "Premium stability shoes with advanced support and cushioning.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718126169/AsicsGelKayano_jnyzmc.png"
+      },
+      {
+        "p_id": 189,
+        "p_name": "New Balance 990v5",
+        "p_cost": 1759,
+        "p_cat": "Shoes",
+        "p_desc": "Comfortable and stylish shoes with superior craftsmanship.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718126168/NewBalance990v5_yucgjp.png"
+      },
+      {
+        "p_id": 190,
+        "p_name": "Hoka One One Bondi 7",
+        "p_desc": "Plush and maximally cushioned running shoes for ultimate comfort.",
+        "p_cost": 2009,
+        "p_cat": "Shoes",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718127308/HokaOneBondi7_jf4pye.png"
+      },
+      {
+        "p_id": 191,
+        "p_name": "Vans Old Skool",
+        "p_cost": 6099,
+        "p_cat": "Shoes",
+        "p_desc": "Classic skate shoes with a timeless design and durability.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718127308/VansOldSkool_ttn4ot.png"
+      },
+      {
+        "p_id": 192,
+        "p_name": "Converse Chuck Taylor",
+        "p_cost": 5599,
+        "p_cat": "Shoes",
+        "p_desc": "Iconic sneakers known for their versatility and classic look.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718127309/ConverseChuckTaylor_af8mal.png"
+      },
+      {
+        "p_id": 193,
+        "p_name": "Feiyue Low",
+        "p_cost": 4959,
+        "p_cat": "Shoes",
+        "p_desc": "Classic canvas shoes with a minimalist design, popular for casual wear.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718127307/FeiyueLow_uqg0s9.png"
+      },
+      {
+        "p_id": 194,
+        "p_name": "Michael Kors Jet Set Tote",
+        "p_cost": 2509,
+        "p_cat": "Bags",
+        "p_desc": "Stylish and spacious tote bag with luxurious finishes.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718127922/MichaelKorsJetSetTote_kavfz3.png"
+      },
+      {
+        "p_id": 195,
+        "p_name": "Gucci GG Marmont",
+        "p_cost": 9809,
+        "p_cat": "Bags",
+        "p_desc": "Elegant and iconic shoulder bag with a vintage appeal.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718127924/GucciGGMarmont_xox725.png"
+      },
+      {
+        "p_id": 196,
+        "p_name": "Louis Vuitton Neverfull",
+        "p_cost": 1599,
+        "p_cat": "Bags",
+        "p_desc": "Timeless and versatile tote bag with ample space.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718127921/LouisVuittonNeverfull_gl9bmn.png"
+      },
+      {
+        "p_id": 197,
+        "p_name": "Chanel Classic Flap",
+        "p_cost": 5999,
+        "p_cat": "Bags",
+        "p_desc": "Iconic quilted leather bag with gold-tone hardware.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718127915/ChanelClassicFlap_j0citc.png"
+      },
+      {
+        "p_id": 198,
+        "p_name": "Prada Re-Edition 2005",
+        "p_cost": 9599,
+        "p_cat": "Bags",
+        "p_desc": "Trendy nylon bag with chain details and Prada's logo.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718127914/PradaReEdition2005_mzdo41.png"
+      },
+      {
+        "p_id": 199,
+        "p_name": "Hermès Birkin",
+        "p_cost": 59999,
+        "p_cat": "Bags",
+        "p_desc": "Luxurious and exclusive handbag with exquisite craftsmanship.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718128564/Herm%C3%A8sBirkin_bgwioi.png"
+      },
+      {
+        "p_id": 200,
+        "p_name": "Longchamp Le Pliage",
+        "p_cost": 39999,
+        "p_cat": "Bags",
+        "p_desc": "Foldable and lightweight tote bag, perfect for travel or everyday use.",
+        "p_img": "https://res.cloudinary.com/dohjykpit/image/upload/v1718129023/LongchampLePliage_yngkog.png"
+      }    
+]

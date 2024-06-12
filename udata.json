@@ -1,0 +1,43 @@
+[
+    {
+      "u_id": 1,
+      "u_name": "JohnDoe",
+      "u_pwd": "securePassword123",
+      "u_email": "johndoe@example.com",
+      "u_addr": "1234 Elm Street, Springfield, IL, 62701",
+      "u_contact": "+1-555-123-4567"
+    },
+    {
+      "u_id": 2,
+      "u_name": "JaneSmith",
+      "u_pwd": "mySecret789",
+      "u_email": "janesmith@example.com",
+      "u_addr": "5678 Maple Avenue, Metropolis, NY, 10001",
+      "u_contact": "+1-555-987-6543"
+    },
+    {
+      "u_id": 3,
+      "u_name": "AliceJohnson",
+      "u_pwd": "alicePass321",
+      "u_email": "alicej@example.com",
+      "u_addr": "9101 Oak Street, Gotham, CA, 90210",
+      "u_contact": "+1-555-321-0987"
+    },
+    {
+      "u_id": 4,
+      "u_name": "BobBrown",
+      "u_pwd": "bobSecure456",
+      "u_email": "bobbrown@example.com",
+      "u_addr": "2345 Pine Road, Star City, TX, 73301",
+      "u_contact": "+1-555-654-3210"
+    },
+    {
+      "u_id": 5,
+      "u_name": "CharlieDavis",
+      "u_pwd": "charliePwd789",
+      "u_email": "charliedavis@example.com",
+      "u_addr": "6789 Birch Lane, Central City, OH, 45001",
+      "u_contact": "+1-555-987-1234"
+    }
+  ]
+  
